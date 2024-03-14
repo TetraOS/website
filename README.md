@@ -2,7 +2,7 @@
   
 # The TetraOS Website
 
-| :warning: | **The TetraOS website is built using NextJS, and is hosted using GitHub Pages.** <br> | :warning: |
+| :warning: | **The TetraOS website is built using standard HTML, CSS, JS, and is hosted using GitHub Pages.** <br> | :warning: |
 | --------- | :--------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
 ***We welcome contributions to the TetraOS website! Before submitting a pull request, please take a moment to review our contribution guidelines***
@@ -10,7 +10,7 @@
 
 ## Project Structure 
 
-- ```./src``` includes the NextJS source code for the website.
+
 
 ## Getting Started
 
