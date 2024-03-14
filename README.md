@@ -10,7 +10,20 @@
 
 ## Project Structure 
 
-
+```
+Project (Root) Folder/
+│
+├── html files (.html)
+│
+├── css/
+│   ├── css styling files (.css)
+│
+├── img/
+│   └── project images
+│
+└── js/
+    └── javascript files (.js)
+```
 
 ## Getting Started
 
@@ -40,15 +53,6 @@ To view the TetraOS website design, visit the [Figma File](https://www.figma.com
 
 ## Development
 
-Please make sure you have NodeJS 13 or later installed onto your system
-
-```
-cd src
-npm install
-npm run dev
-```
-Then head over to localhost:3000 to see the site live
-
-**Note:** This page will not reload if changes are made.
+Please make sure you have a method of previewing HTML files (i.e. Live Server, etc...) 
 
 You will see any code errors within the console.
