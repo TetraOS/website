@@ -58,7 +58,7 @@ We welcome contributions from the community to help improve and maintain the Tet
 - **Content Creation**: Contribute articles, tutorials, or documentation to enrich the website's resources and provide value to visitors.
 - **Feedback**: Share your feedback, suggestions, or report issues to help us continually improve the website for all users.
 
-For more information on how to contribute, please refer to our [contribution guidelines](CONTRIBUTING.md).
+For more information on how to contribute, please refer to our [contribution guidelines](docs/CONTRIBUTING.md).
 
 ## Support 🛠️
 
