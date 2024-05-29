@@ -48,7 +48,7 @@ To get started with the Tetra Foundation website locally, follow these steps:
    npm run dev
    ```
 
-4. **Explore**: Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the website.
+4. **Explore**: Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the website. To view the website's design, visit our Figma design file [here](https://www.figma.com/community/file/1377785963728309228).
 
 ## Contributing 🤝
 
